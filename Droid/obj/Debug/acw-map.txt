@@ -1,0 +1,8 @@
+cleaner.Droid.MainActivity, cleaner.Droid;md56abbd2351d3b11c52d067a98821d6566.MainActivity
+cleaner.Droid.MainActivity, cleaner.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56abbd2351d3b11c52d067a98821d6566.MainActivity
+cleaner.Droid.MainActivity;md56abbd2351d3b11c52d067a98821d6566.MainActivity
+cleaner.droid.MainActivity;md56abbd2351d3b11c52d067a98821d6566.MainActivity
+cleaner.Droid.MyLista, cleaner.Droid;md56abbd2351d3b11c52d067a98821d6566.MyLista
+cleaner.Droid.MyLista, cleaner.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56abbd2351d3b11c52d067a98821d6566.MyLista
+cleaner.Droid.MyLista;md56abbd2351d3b11c52d067a98821d6566.MyLista
+cleaner.droid.MyLista;md56abbd2351d3b11c52d067a98821d6566.MyLista

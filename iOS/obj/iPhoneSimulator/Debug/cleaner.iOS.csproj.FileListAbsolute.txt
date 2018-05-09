@@ -1,0 +1,14 @@
+/Users/plaga/Documents/dev/android/cleaner/iOS/bin/iPhoneSimulator/Debug/cleaner.iOS.exe
+/Users/plaga/Documents/dev/android/cleaner/iOS/bin/iPhoneSimulator/Debug/cleaner.iOS.pdb
+/Users/plaga/Documents/dev/android/cleaner/iOS/bin/iPhoneSimulator/Debug/cleaner.dll
+/Users/plaga/Documents/dev/android/cleaner/iOS/bin/iPhoneSimulator/Debug/cleaner.pdb
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/cleaner.iOS.csprojResolveAssemblyReference.cache
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/cleaner.iOS.csproj.CoreCompileInputs.cache
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/cleaner.iOS.exe
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/cleaner.iOS.pdb
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_PartialAppManifest.items
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/plaga/Documents/dev/android/cleaner/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/

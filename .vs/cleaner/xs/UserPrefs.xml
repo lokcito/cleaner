@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{33641B23-6874-4C9B-8A42-1DE3A8C61679}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cleaner/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="Droid/Resources/values/Strings.xml" Line="3" Column="21" />
+      <File FileName="cleaner/MyClass.cs" Line="7" Column="10" />
+      <File FileName="cleaner/models/Actividad.cs" Line="28" Column="30" />
+      <File FileName="Droid/MainActivity.cs" Line="33" Column="24" />
+      <File FileName="Droid/MyLista.cs" Line="24" Column="10" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Droid/Resources/Resource.designer.cs" Line="127" Column="29" />
+      <File FileName="cleaner/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/plaga/Documents/dev/android/cleaner/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="24" column="1" />
+      <Breakpoint enabled="false" file="/Users/plaga/Documents/dev/android/cleaner/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="26" column="1" />
+      <Breakpoint enabled="false" file="/Users/plaga/Documents/dev/android/cleaner/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="27" column="1" />
+      <Breakpoint enabled="false" file="/Users/plaga/Documents/dev/android/cleaner/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="29" column="1" />
+      <Breakpoint enabled="false" file="/Users/plaga/Documents/dev/android/cleaner/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="24" column="1" />
+      <Breakpoint enabled="false" file="/Users/plaga/Documents/dev/android/cleaner/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.cleaner.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.cleaner.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A5FE35F7-FD4E-44BB-ABC3-5A99D30D9FB4">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.cleaner.iOS>
+</Properties>

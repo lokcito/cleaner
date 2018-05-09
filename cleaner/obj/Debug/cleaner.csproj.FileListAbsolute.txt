@@ -1,0 +1,5 @@
+/Users/plaga/Documents/dev/android/cleaner/cleaner/bin/Debug/cleaner.dll
+/Users/plaga/Documents/dev/android/cleaner/cleaner/bin/Debug/cleaner.pdb
+/Users/plaga/Documents/dev/android/cleaner/cleaner/obj/Debug/cleaner.csproj.CoreCompileInputs.cache
+/Users/plaga/Documents/dev/android/cleaner/cleaner/obj/Debug/cleaner.dll
+/Users/plaga/Documents/dev/android/cleaner/cleaner/obj/Debug/cleaner.pdb
